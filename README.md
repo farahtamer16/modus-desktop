@@ -33,7 +33,7 @@ Validated across **466 trials**, achieving:
 These results demonstrate the feasibility of webcam-based cognitive testing comparable to lab-grade systems.
 
 ### Documentation
-**Read the full technical report:**  
+**Read the full technical report and my implementation:**  
 [MoDUS_Final_Report.pdf](./MoDUS_Final_Report.pdf)
 
 
