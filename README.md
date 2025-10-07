@@ -43,7 +43,7 @@ These results demonstrate the feasibility of webcam-based cognitive testing comp
 ### Author
 **Farah Tamer Fathy Ahmed Elsaid**  
 B.Sc. Computer Science with Artificial Intelligence (Hons)  
-University of Nottingham Malaysia (2025)
+University of Nottingham (2025)
 
 ### Acknowledgements
 Supervised by **Dr. Iman Liao**  
