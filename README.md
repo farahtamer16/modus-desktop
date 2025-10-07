@@ -45,6 +45,6 @@ These results demonstrate the feasibility of webcam-based cognitive testing comp
 B.Sc. Computer Science with Artificial Intelligence (Hons)  
 University of Nottingham Malaysia (2025)
 
-### 📜 Acknowledgements
+### Acknowledgements
 Supervised by **Dr. Iman Liao**  
 Developed in collaboration with the **School of Psychology**, University of Nottingham Malaysia.
