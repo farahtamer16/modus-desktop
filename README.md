@@ -1,15 +1,12 @@
 # MoDUS: Desktop Eye-Tracking for Dementia Monitoring
 
 ### Overview
-**MoDUS (Monitoring Dementia Using Smartphones/Desktop)** is a cross-platform cognitive assessment application that uses **real-time eye tracking** to evaluate executive function through the **antisaccade task** — a well-established measure of cognitive control.  
+**MoDUS (Monitoring Dementia Using Smartphones/Desktop)** is a cross-platform cognitive assessment application that uses **real-time eye tracking** to evaluate executive function through the **antisaccade task**, a well-established measure of cognitive control.  
 
-This project extends the original **mobile MoDUS** into a **desktop version** built with **Unity** and **MediaPipe**, enabling low-cost, accessible cognitive testing via standard webcams.  
-It was developed in collaboration with the **School of Psychology** at the **University of Nottingham Malaysia**.
+This project extends the original **mobile MoDUS** into a **desktop version** built with **Unity** and **MediaPipe**, enabling low-cost, accessible cognitive testing via standard webcams. It was developed in collaboration with the **School of Psychology** at the **University of Nottingham Malaysia**.
 
 ### Literature Context
-Traditional dementia assessments rely on costly, clinic-bound setups with specialized eye-tracking hardware. Research has shown that **antisaccade tasks**—tests measuring the ability to look away from a visual stimulus—are reliable markers of executive function and early dementia detection.  
-MoDUS bridges the gap between **clinical precision** and **real-world accessibility** by integrating webcam-based gaze tracking and MediaPipe’s iris detection framework.  
-This approach democratizes cognitive testing, providing scalable and reliable home or clinical use without lab-grade hardware.
+Traditional dementia assessments rely on costly, clinic-bound setups with specialized eye-tracking hardware. Research has shown that **antisaccade tasks**—tests measuring the ability to look away from a visual stimulus—are reliable markers of executive function and early dementia detection. MoDUS bridges the gap between **clinical precision** and **real-world accessibility** by integrating webcam-based gaze tracking and MediaPipe’s iris detection framework. This approach democratizes cognitive testing, providing scalable and reliable home or clinical use without lab-grade hardware.
 
 ### Features
 - **Webcam-based eye tracking** using MediaPipe Iris  
